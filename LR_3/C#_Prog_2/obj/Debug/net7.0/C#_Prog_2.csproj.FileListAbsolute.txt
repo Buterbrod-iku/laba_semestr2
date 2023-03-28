@@ -1,0 +1,15 @@
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\bin\Debug\net7.0\C#_Prog_2.exe
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\bin\Debug\net7.0\C#_Prog_2.deps.json
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\bin\Debug\net7.0\C#_Prog_2.runtimeconfig.json
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\bin\Debug\net7.0\C#_Prog_2.dll
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\bin\Debug\net7.0\C#_Prog_2.pdb
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.csproj.AssemblyReference.cache
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.AssemblyInfoInputs.cache
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.AssemblyInfo.cs
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.csproj.CoreCompileInputs.cache
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.dll
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\refint\C#_Prog_2.dll
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.pdb
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\C#_Prog_2.genruntimeconfig.cache
+C:\Users\setInterval\Desktop\C++\semestr_2\LR_3\C#_Prog_2\obj\Debug\net7.0\ref\C#_Prog_2.dll
